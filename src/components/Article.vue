@@ -7,7 +7,7 @@
 		    </ul>
 		</div>
 		<div class="content">
-			<div class="header clear"><h2><img :src="articleData.author_face" alt=""/></h2><p>智能社</p></div>
+			<div class="header clear"><h2><img :src="articleData.author_face" alt=""/></h2><p>Noir</p></div>
 		    <div class="cont">
 		    	<h3>{{articleData.title}}</h3>
 		        <div class="time"><p>{{articleData.time | normalTime}} <span><img src="../assets/img/zan.png" alt=""/></span></p></div>
